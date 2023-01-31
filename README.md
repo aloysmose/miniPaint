@@ -1,4 +1,4 @@
-# miniPaint
+# Creative
 
 Online image editor lets you create, edit images using HTML5 technologies.
 No need to buy, download, install or have obsolete flash. No ads.
@@ -9,13 +9,7 @@ or upload from the computer (using menu or drag & drop). Nothing will be sent to
 browser. 
 
 ## URL:
-**https://viliusle.github.io/miniPaint/**
 
-## Preview:
-![miniPaint](https://raw.githubusercontent.com/viliusle/miniPaint/master/images/preview.gif)
-(generated using miniPaint)
-
-**Change log:** [/miniPaint/releases](https://github.com/viliusle/miniPaint/releases)
 
 ## Browser Support
 - Chrome
